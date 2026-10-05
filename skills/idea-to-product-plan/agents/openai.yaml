@@ -1,0 +1,4 @@
+interface:
+  display_name: "成器｜策划"
+  short_description: "衔接策划、设计、开发，支持文案版本模拟、事前预测与实测复盘"
+  default_prompt: "使用 $idea-to-product-plan 根据现有材料完成当前阶段，交付可检查的结果。"

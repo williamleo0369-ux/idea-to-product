@@ -1,0 +1,12 @@
+# 本仓库只分发技能，不分发运行记录和秘密
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.idea-to-product/
+.cheat-state.json
+.cheat-cache/
+.auth*
+*secrets*.json
